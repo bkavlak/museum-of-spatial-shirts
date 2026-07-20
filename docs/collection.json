@@ -228,6 +228,119 @@
       "type": "shirt"
     },
     {
+      "id": "sotm-2012",
+      "name": "State of the Map 2012",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2012,
+      "location": "Tokyo, Japan",
+      "url": "https://2012.stateofthemap.org/",
+      "description": "The front roughly translates to \"7 billion people, everyone, can be like Inō Tadataka\" and refers to the 17th century surveyor and map maker.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Japan"
+      ],
+      "photos": [
+        {
+          "file": "sotm-2012-front.jpg",
+          "caption": "SotM 2012 shirt (front)",
+          "credit": "Gregory Marler"
+        },
+        {
+          "file": "sotm-2012-back.jpg",
+          "caption": "SotM 2012 shirt (back)",
+          "credit": "Gregory Marler"
+        },
+        {
+          "file": "sotm-2012-side.jpg",
+          "caption": "SotM 2012 shirt (side)",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "sotm-scotland-2015",
+      "name": "State of the Map 2015",
+      "category": "event",
+      "event": "State of the Map Scotland",
+      "year": 2015,
+      "location": "Edinburgh, UK",
+      "url": "https://wiki.openstreetmap.org/wiki/State_of_the_Map_Scotland_2015",
+      "description": "This was an unconference held very occasionally. The shirt shows roads and buildings of the city.",
+      "tags": [
+        "openstreetmap",
+        "sotms",
+        "conference",
+        "Scotland",
+        "United Kingdom"
+      ],
+      "photos": [
+        {
+          "file": "sotm-scotland-2015.jpg",
+          "caption": "SotM Scotland 2015 shirt",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "sotm-2018",
+      "name": "State of the Map 2018",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2018,
+      "location": "Milan, Italy",
+      "url": "https://2018.stateofthemap.org/",
+      "description": "This simple red shirt was worn by the team, with delegates receiving green t-shirts.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Italy",
+        "team"
+      ],
+      "photos": [
+        {
+          "file": "sotm-2018-team.jpg",
+          "caption": "SotM 2018 team shirt",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "sotm-2019",
+      "name": "State of the Map 2019",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2019,
+      "location": "Heidelberg, Germany",
+      "url": "https://2019.stateofthemap.org/",
+      "description": "Delegates wore maroon shirts, while the team had blue shirts.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Germany",
+        "team"
+      ],
+      "photos": [
+        {
+          "file": "sotm-2019-team.jpg",
+          "caption": "SotM 2019 team shirt",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
       "id": "sotm-2020",
       "name": "State of the Map 2020",
       "category": "event",
@@ -249,6 +362,51 @@
           "credit": "Jez Nicholson"
         }
       ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "sotm-2022",
+      "name": "State of the Map 2022",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2022,
+      "location": "Florence, Italy",
+      "url": "https://2022.stateofthemap.org/",
+      "description": "The global OpenStreetMap conference was held in Italy for the second time.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Italy"
+      ],
+      "photos": [
+        {
+          "file": "sotm-2022.jpg",
+          "caption": "SotM 2022 shirt",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "sotm-2022-team",
+      "name": "State of the Map 2022 (team)",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2022,
+      "location": "Florence, Italy",
+      "url": "https://2022.stateofthemap.org/",
+      "description": "This is the shirt that volunteers wore at the OpenStreetMap conference.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Italy",
+        "team"
+      ],
+      "photos": [],
       "stories": [],
       "type": "shirt"
     },
@@ -547,6 +705,53 @@
           "file": "PXL_20260614_173639337.jpg",
           "caption": "Mapquest 'Blood, Sweat, & Maps' shirt",
           "credit": "Stephen Hess"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "foss4g-2013",
+      "name": "FOSS4G 2013",
+      "category": "event",
+      "event": "FOSS4G",
+      "year": 2013,
+      "location": "Nottingham, UK",
+      "url": "https://2013.foss4g.org/",
+      "description": "The free and open source software for geo conference. The target is a reference to Robin Hood of the local Sherwood Forest.",
+      "tags": [
+        "conference",
+        "foss4g",
+        "United Kingdom"
+      ],
+      "photos": [
+        {
+          "file": "foss4g-2013-front.jpg",
+          "caption": "FOSS4G 2013 shirt (front)",
+          "credit": "Gregory Marler"
+        },
+        {
+          "file": "foss4g-2013-back.jpg",
+          "caption": "FOSS4G 2013 shirt (back)",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "craft-mapper",
+      "name": "Craft",
+      "category": "concept",
+      "description": "A blog post coigned \"craft mapper\" as a deogratory term to early OpenStreetMap contributiors who are stuck in their ways and slow to accept changes in tools and user demographics. A case of owning the term to stop it being an insult took place and these t-shirts were created and distributed. Both craft mappers and neo mappers need to continue to exists for OpenStreetMap to be successful, the definitions of each will vary depending on who you ask.",
+      "tags": [
+        "openstreetmap"
+      ],
+      "photos": [
+        {
+          "file": "craft-mapper2.jpg",
+          "caption": "Craft Mapper (2nd edition)",
+          "credit": "Gregory Marler"
         }
       ],
       "stories": [],
