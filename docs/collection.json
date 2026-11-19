@@ -1524,18 +1524,19 @@
     },
     {
       "id": "humanitarian-openstreetmap-team-polo",
-      "name": "Humanitarian OpenStreetMap Team Polo",
+      "name": "Humanitarian OpenStreetMap Team Volunteer Polo",
       "category": "company",
-      "description": "Red polo shirt with the Humanitarian OpenStreetMap Team (HOT) logo on the chest.",
+      "description": "Red volunteer polo shirt with the Humanitarian OpenStreetMap Team (HOT) logo on the chest.",
       "tags": [
         "hot",
         "humanitarian",
-        "openstreetmap"
+        "openstreetmap",
+        "volunteer"
       ],
       "photos": [
         {
           "file": "humanitarian-openstreetmap-team-shirt.jpg",
-          "caption": "Humanitarian OpenStreetMap Team polo",
+          "caption": "Humanitarian OpenStreetMap Team volunteer polo",
           "credit": "Batuhan Kavlak"
         }
       ],
