@@ -1472,7 +1472,7 @@
       "event": "FOSS4G Europe",
       "year": 2026,
       "location": "Timișoara, Romania",
-      "description": "White volunteer shirt for FOSS4G Europe 2026 in Timișoara.",
+      "description": "White volunteer shirt for FOSS4G Europe 2026 in Timișoara. The back reads \"Connecting the OSGeo Community\" above the OSGeo logo.",
       "tags": [
         "foss4g",
         "foss4g-europe",
@@ -1484,8 +1484,13 @@
       ],
       "photos": [
         {
-          "file": "foss4ge-2026-timisoara-volunteer-shirt.jpg",
+          "file": "foss4ge-2026-timisoara-volunteer-shirt-front.jpg",
           "caption": "Front of the FOSS4G Europe 2026 volunteer shirt",
+          "credit": "Batuhan Kavlak"
+        },
+        {
+          "file": "foss4ge-2026-timisoara-volunteer-shirt-back.jpg",
+          "caption": "Back of the volunteer shirt: \"Connecting the OSGeo Community\"",
           "credit": "Batuhan Kavlak"
         }
       ],
@@ -1496,7 +1501,7 @@
       "id": "gdal-detective",
       "name": "GDAL Detective",
       "category": "concept",
-      "description": "GDAL shirt showing a trench-coated detective with a globe for a head, a satellite overhead.",
+      "description": "GDAL shirt showing a trench-coated detective with a globe for a head, a satellite overhead. The back is GDAL's command-line progress bar: \"0...10...20...30...40...50...60...70...80...90...100 - done\".",
       "tags": [
         "gdal",
         "osgeo",
@@ -1504,8 +1509,13 @@
       ],
       "photos": [
         {
-          "file": "gdal-shirt.jpg",
+          "file": "gdal-detective-shirt-front.jpg",
           "caption": "Front of the GDAL detective shirt",
+          "credit": "Batuhan Kavlak"
+        },
+        {
+          "file": "gdal-detective-shirt-back.jpg",
+          "caption": "Back of the GDAL detective shirt with the GDAL progress bar",
           "credit": "Batuhan Kavlak"
         }
       ],
