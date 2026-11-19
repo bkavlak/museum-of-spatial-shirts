@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-11-19",
   "items": [
     {
       "id": "sotm-us-2010",
@@ -1327,6 +1327,206 @@
           "file": "foss4g-auckland-2025.jpg",
           "caption": "Front logo of the FOSS4G Auckland 2025 shirt",
           "credit": "Phil Wyatt"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "foss4g-2023",
+      "name": "FOSS4G 2023",
+      "category": "event",
+      "event": "FOSS4G",
+      "year": 2023,
+      "location": "Prizren, Kosovo",
+      "description": "Blue shirt for the global FOSS4G 2023 conference in Prizren, with the FOSS4G letters stacked over red contour lines.",
+      "tags": [
+        "foss4g",
+        "osgeo",
+        "conference",
+        "kosovo",
+        "prizren"
+      ],
+      "photos": [
+        {
+          "file": "foss4g-2023-prizren-shirt.jpg",
+          "caption": "Front of the FOSS4G 2023 Prizren shirt",
+          "credit": "Batuhan Kavlak"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "foss4g-2026",
+      "name": "FOSS4G 2026",
+      "category": "event",
+      "event": "FOSS4G",
+      "year": 2026,
+      "location": "Hiroshima, Japan",
+      "description": "Red shirt for the global FOSS4G 2026 conference in Hiroshima. The back carries an origami paper crane and the conference theme \"Bridging Geospatial Technology and Humanity\".",
+      "tags": [
+        "foss4g",
+        "osgeo",
+        "conference",
+        "japan",
+        "hiroshima"
+      ],
+      "photos": [
+        {
+          "file": "foss4g-2026-hiroshima-shirt-front.jpg",
+          "caption": "Front of the FOSS4G 2026 Hiroshima shirt",
+          "credit": "Batuhan Kavlak"
+        },
+        {
+          "file": "foss4g-2026-hiroshima-shirt-back.jpg",
+          "caption": "Back of the FOSS4G 2026 Hiroshima shirt with the paper crane",
+          "credit": "Batuhan Kavlak"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "foss4g-europe-2025",
+      "name": "FOSS4G Europe 2025",
+      "category": "event",
+      "event": "FOSS4G Europe",
+      "year": 2025,
+      "location": "Mostar, Bosnia and Herzegovina",
+      "description": "Green shirt for FOSS4G Europe 2025 in Mostar.",
+      "tags": [
+        "foss4g",
+        "foss4g-europe",
+        "osgeo",
+        "conference",
+        "bosnia and herzegovina",
+        "mostar"
+      ],
+      "photos": [
+        {
+          "file": "foss4ge-2025-mostar-shirt.jpg",
+          "caption": "Front of the FOSS4G Europe 2025 Mostar shirt",
+          "credit": "Batuhan Kavlak"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "foss4g-europe-2025-cap",
+      "name": "FOSS4G Europe 2025 Cap",
+      "category": "event",
+      "event": "FOSS4G Europe",
+      "year": 2025,
+      "location": "Mostar, Bosnia and Herzegovina",
+      "description": "Khaki cap from FOSS4G Europe 2025 in Mostar, with \"reprojecting inside...\" printed on the side.",
+      "tags": [
+        "foss4g",
+        "foss4g-europe",
+        "osgeo",
+        "conference",
+        "mostar",
+        "cap"
+      ],
+      "photos": [
+        {
+          "file": "foss4ge-2025-mostar-cap.jpg",
+          "caption": "FOSS4G Europe 2025 cap with \"reprojecting inside...\" on the side",
+          "credit": "Batuhan Kavlak"
+        }
+      ],
+      "stories": [],
+      "type": "hat"
+    },
+    {
+      "id": "foss4g-europe-2026",
+      "name": "FOSS4G Europe 2026",
+      "category": "event",
+      "event": "FOSS4G Europe",
+      "year": 2026,
+      "location": "Timișoara, Romania",
+      "description": "Green shirt for FOSS4G Europe 2026 in Timișoara, showing the city skyline and a street lamp.",
+      "tags": [
+        "foss4g",
+        "foss4g-europe",
+        "osgeo",
+        "conference",
+        "romania",
+        "timisoara"
+      ],
+      "photos": [
+        {
+          "file": "foss4ge-2026-timisoara-shirt.jpg",
+          "caption": "Front of the FOSS4G Europe 2026 Timișoara shirt",
+          "credit": "Batuhan Kavlak"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "foss4g-europe-2026-volunteer",
+      "name": "FOSS4G Europe 2026 Volunteer",
+      "category": "event",
+      "event": "FOSS4G Europe",
+      "year": 2026,
+      "location": "Timișoara, Romania",
+      "description": "White volunteer shirt for FOSS4G Europe 2026 in Timișoara.",
+      "tags": [
+        "foss4g",
+        "foss4g-europe",
+        "osgeo",
+        "conference",
+        "romania",
+        "timisoara",
+        "volunteer"
+      ],
+      "photos": [
+        {
+          "file": "foss4ge-2026-timisoara-volunteer-shirt.jpg",
+          "caption": "Front of the FOSS4G Europe 2026 volunteer shirt",
+          "credit": "Batuhan Kavlak"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "gdal-detective",
+      "name": "GDAL Detective",
+      "category": "concept",
+      "description": "GDAL shirt showing a trench-coated detective with a globe for a head, a satellite overhead.",
+      "tags": [
+        "gdal",
+        "osgeo",
+        "concept"
+      ],
+      "photos": [
+        {
+          "file": "gdal-shirt.jpg",
+          "caption": "Front of the GDAL detective shirt",
+          "credit": "Batuhan Kavlak"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "humanitarian-openstreetmap-team-polo",
+      "name": "Humanitarian OpenStreetMap Team Polo",
+      "category": "company",
+      "description": "Red polo shirt with the Humanitarian OpenStreetMap Team (HOT) logo on the chest.",
+      "tags": [
+        "hot",
+        "humanitarian",
+        "openstreetmap"
+      ],
+      "photos": [
+        {
+          "file": "humanitarian-openstreetmap-team-shirt.jpg",
+          "caption": "Humanitarian OpenStreetMap Team polo",
+          "credit": "Batuhan Kavlak"
         }
       ],
       "stories": [],
